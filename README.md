@@ -1,6 +1,6 @@
 # Sentiment-Anlyzer-with-Python-Streamlit
 Hey there! 
-In this projectc i have created an application which can analyze the sentiments of a given text. 
+In this project i have created an application which can analyze the sentiments of a given text. 
 The senitiment anlayzer provides three models by which one can analyze the sentiment. the models implemented are:
 1) Count Vectorizer with Multinommial Naive beyes classifier
 2) Count vectorizer with Logistic Regression
