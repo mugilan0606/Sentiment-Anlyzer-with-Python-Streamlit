@@ -20,8 +20,11 @@ The Colab Links are:
 NOTE: This repository doesn't include the exported pickle file, as the file size is too large to accomodate.
 
 To implement the project,
-/n
+
 i)Execute the google colab codes and export the pickle files.
+
 ii)mport the pickle files to Sentiment/sentimentanalyzer folder.
+
 iii)Then execute the command: streamlit run app.py
+
 iv)Now,go to the given local host address.
